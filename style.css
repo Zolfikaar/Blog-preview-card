@@ -38,6 +38,7 @@ body{
 }
 
 .content{
+  height: 522px;
   width: 384px;
   background-color: var(--White);
   display: flex;
